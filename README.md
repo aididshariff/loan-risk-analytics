@@ -59,8 +59,7 @@ Live and filterable dashboard displaying insights on borrower risk, defaults, an
 
 | File | Description |
 |------|-------------|
-| `loan_cleaning.sql` | SQL script for data cleaning and prep |
-| `loan_analysis.sql` | SQL code for calculating default metrics |
+| `loan_cleaning.sql` | SQL script for data cleaning, prep and code for calculating default metrics|
 | `README.md` | Full project documentation |
 
 ---
